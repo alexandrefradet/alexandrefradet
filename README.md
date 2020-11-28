@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+French dev from Lyon.
+Mostly working witn Java / Angular.
+
+[Mostly working on gitlab for my personnal projects](https://gitlab.com/alexandrefradet)
 <!--
 **alexandrefradet/alexandrefradet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
