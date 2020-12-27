@@ -6,6 +6,8 @@ Interested and testing things with docker, CI/CD, cloud (aws), ansible, clean co
 
 [Mostly working on gitlab for my personnal projects](https://gitlab.com/alexandrefradet)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexandrefradet)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **alexandrefradet/alexandrefradet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
