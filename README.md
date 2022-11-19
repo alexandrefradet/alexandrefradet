@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 French dev from Lyon.  
-Mostly working with Java / Angular in my day to day job.  
-Interested and testing things with docker, CI/CD, cloud (aws), ansible, clean code and much more...  
+Working with Java / Angular in my day to day job, interested and testing things related to kube, CI/CD, cloud (aws), ansible, clean code and much more...  
 
-[Also working on gitlab for my personnal projects](https://gitlab.com/alexandrefradet)
+[Mostly active on gitlab for my personnal projects](https://gitlab.com/afradet)
 
 
 <!--
